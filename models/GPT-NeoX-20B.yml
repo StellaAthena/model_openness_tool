@@ -8,9 +8,8 @@ release:
   date: '2025-05-30'
   type: language
   architecture: 'transformer decoder'
-  origin: 'GPT Megatron'
   producer: EleutherAI
-  contact: ''
+  contact: 'contact@eleuther.ai'
   repository: 'https://github.com/EleutherAI/gpt-neox'
   huggingface: 'https://huggingface.co/EleutherAI/gpt-neox-20b'
   license:
@@ -56,6 +55,9 @@ release:
       description: 'Research paper detailing the development and capabilities of the model'
       component_path: 'https://arxiv.org/abs/2204.06745'
       license: CC-BY-4.0
+    -
+      name: 'Evaluation data'
+      description: 'Data used for evaluating the model'
     -
       name: 'Evaluation results'
       description: 'The results from evaluating the model'
