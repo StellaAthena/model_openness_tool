@@ -8,6 +8,7 @@ release:
   date: '2025-05-30'
   type: language
   architecture: 'transformer decoder'
+  origin: 'GPT-NeoX'
   producer: EleutherAI
   contact: 'contact@eleuther.ai'
   repository: 'https://github.com/EleutherAI/gpt-neox'
